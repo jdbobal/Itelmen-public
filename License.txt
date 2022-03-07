@@ -1,0 +1,19 @@
+License
+The Itelmen dictionary (online) is copyright © 2021-2022 IAVD (Itelmen Audio Video Dictionary) project. 
+
+The online version of the dictionary is subject, except where otherwise noted, to a Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0), which allows anyone to share and adapt our material as long as proper attribution is given. Attribution is to the Itelmen Audio Video Dictionary Project, Department of Linguistics, ©2021 President and Fellows of Harvard College. For further information see: https://itelmen.fas.harvard.edu/iavd/en/rights/
+
+Во всех случаях, кроме специально оговоренных, данный проект подлежит лицензии Creative Commons «С указанием авторства – Некоммерческая – С сохранением условий 4.0 – Международная» (CC BY-NC 4.0), которая позволяет любому пользователю распространять и адаптировать материалы при условии правильно указанного авторства. В качестве ссылки следует указывать следующее: Ительменский аудио- и видеословарь, Департамент лингвистики, ©2021 Президент и члены Гарвард-колледжа.
+
+О подробностях и исключениях можно узнать в разделе АВТОРСКИЕ ПРАВА: https://itelmen.fas.harvard.edu/iavd/ru/авторские-права/
+
+The mobile app version of the dictionary was created with the SIL Dictionary App Builder software. That software is copyright © 2014-2019, SIL International. It is released under the following license:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use and redistribute the software, to build and distribute apps from dictionary data, provided that you are the owner of the data or have permission to distribute it.
+
+The Software is protected by international copyright treaty provisions. You may not remove any copyright or other proprietary notice from the software. You may not reverse engineer, decompile, or disassemble the software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
